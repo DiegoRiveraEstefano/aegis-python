@@ -1,0 +1,26 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports.ruff": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+    },
+    "[shellscript]": {
+        "files.eol": "\n",
+        "editor.defaultColorDecorators": "never"
+    },
+    "python.testing.pytestArgs": [
+        "the_green_economics"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cSpell.language": "es,en",
+    "editor.quickSuggestionsDelay": 10,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+
+}

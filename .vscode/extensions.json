@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        "ms-python.mypy-type-checker",
+        "ms-python.debugpy",
+        "njqdev.vscode-python-typehint",
+        "charliermarsh.ruff",
+        "donjayamanne.githistory",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-spanish"
+    ]
+}
